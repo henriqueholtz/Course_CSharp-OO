@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace InheritanceAndPolymorphism
 {
@@ -9,7 +10,6 @@ namespace InheritanceAndPolymorphism
         public Product()
         {
         }
-
         public Product(string name, double price)
         {
             Name = name;
@@ -17,7 +17,7 @@ namespace InheritanceAndPolymorphism
         }
         public virtual string priceTag()
         {
-            return "";
+            return Name + " $ " + Price.ToString("F2",CultureInfo.InvariantCulture);
         }
     }
 }

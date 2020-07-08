@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace InheritanceAndPolymorphism
@@ -17,7 +18,8 @@ namespace InheritanceAndPolymorphism
         }
         public override string priceTag()
         {
-            return base.priceTag();
+            return Name + " (used) $ " + Price.ToString("F2", CultureInfo.InvariantCulture) +
+                "(Manufacture Date: " + ManufactureDate.ToString() + ") ";
         }
     }
 }

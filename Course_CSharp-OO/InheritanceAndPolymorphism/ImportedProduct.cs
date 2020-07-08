@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace InheritanceAndPolymorphism
@@ -18,11 +19,11 @@ namespace InheritanceAndPolymorphism
 
         public override string priceTag()
         {
-            return base.priceTag();
+            return Name + " $ " + TotalPrice().ToString("F2",CultureInfo.InvariantCulture) + " (Customs fee: $ " + CustomsFee.ToString("F2",CultureInfo.InvariantCulture) + ") ";
         }
         public double TotalPrice()
         {
-            return 0;
+            return Price + CustomsFee;
         }
     }
 }
