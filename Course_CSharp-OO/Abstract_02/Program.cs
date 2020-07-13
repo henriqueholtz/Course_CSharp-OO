@@ -32,7 +32,7 @@ namespace Abstract_02
                 else
                 {
                     Console.Write("Health expenditures: ");
-                    double healthExpenditure = double.Parse(Console.ReadLine());
+                    double healthExpenditure = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                     listPerson.Add(new PhysicalPesron(healthExpenditure, name, anualIncome));
                 }
 
@@ -40,13 +40,16 @@ namespace Abstract_02
 
             Console.WriteLine();
             Console.WriteLine("TAXES PAID");
+            double total = 0;
             foreach(Person person in listPerson)
             {
-                //print
+                Console.WriteLine(person.Name + ": $ " + person.Taxes().ToString("F2",CultureInfo.InvariantCulture)); 
+                total += person.Taxes();
             }
 
             Console.WriteLine();
-            Console.Write("TOTAL TAXES: ");
+            Console.Write("TOTAL TAXES: $ " + total.ToString("F2",CultureInfo.InvariantCulture));
+
         }
     }
 }

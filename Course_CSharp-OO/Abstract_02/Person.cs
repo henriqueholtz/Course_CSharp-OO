@@ -7,11 +7,11 @@
         
         public Person(string name, double anualIncome)
         {
-            Name = Name;
+            Name = name;
             AnualIncome = anualIncome;
         }
 
         public abstract double Taxes();
-        public abstract string ToString();
+        //public abstract string ToString();
     }
 }

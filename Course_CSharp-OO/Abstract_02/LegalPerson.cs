@@ -26,10 +26,5 @@ namespace Abstract_02
                 return AnualIncome * 0.16;
             }
         }
-
-        public override string ToString()
-        {
-            return "";
-        }
     }
 }

@@ -36,10 +36,5 @@ namespace Abstract_02
                 return x;
             }
         }
-
-        public override string ToString()
-        {
-            return Name + ": $ " + Taxes();
-        }
     }
 }
