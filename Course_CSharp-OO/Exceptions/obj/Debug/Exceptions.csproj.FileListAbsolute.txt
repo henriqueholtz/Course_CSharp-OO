@@ -1,0 +1,7 @@
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Exceptions\bin\Debug\Exceptions.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Exceptions\bin\Debug\Exceptions.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Exceptions\bin\Debug\Exceptions.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Exceptions\obj\Debug\Exceptions.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Exceptions\obj\Debug\Exceptions.pdb
