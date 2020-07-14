@@ -1,0 +1,6 @@
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\StartProjects.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\StartProjects.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\StartProjects.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.pdb
