@@ -1,9 +1,0 @@
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\bin\Debug\netstandard2.0\InheritanceAndPolymorphism.deps.json
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\bin\Debug\netstandard2.0\InheritanceAndPolymorphism.dll
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\bin\Debug\netstandard2.0\InheritanceAndPolymorphism.pdb
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\obj\Debug\netstandard2.0\InheritanceAndPolymorphism.csprojAssemblyReference.cache
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\obj\Debug\netstandard2.0\InheritanceAndPolymorphism.AssemblyInfoInputs.cache
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\obj\Debug\netstandard2.0\InheritanceAndPolymorphism.AssemblyInfo.cs
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\obj\Debug\netstandard2.0\InheritanceAndPolymorphism.csproj.CoreCompileInputs.cache
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\obj\Debug\netstandard2.0\InheritanceAndPolymorphism.dll
-D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\InheritanceAndPolymorphism\obj\Debug\netstandard2.0\InheritanceAndPolymorphism.pdb

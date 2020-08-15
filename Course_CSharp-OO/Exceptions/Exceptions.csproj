@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="Account.cs" />
     <Compile Include="DomainException.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ProgramExceptions .cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

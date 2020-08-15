@@ -1,0 +1,7 @@
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Interface\bin\Debug\Interface.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Interface\bin\Debug\Interface.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Interface\bin\Debug\Interface.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Interface\obj\Debug\Interface.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Interface\obj\Debug\Interface.pdb

@@ -46,7 +46,7 @@
     <Compile Include="LegalPerson.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="PhysicalPesron.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ProgramAbstract_02.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

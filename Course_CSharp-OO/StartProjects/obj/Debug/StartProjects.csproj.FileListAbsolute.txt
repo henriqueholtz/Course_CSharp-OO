@@ -4,3 +4,17 @@ D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debu
 D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.csproj.CoreCompileInputs.cache
 D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.exe
 D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Abstract.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Abstract.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Abstract.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.csprojAssemblyReference.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\obj\Debug\StartProjects.csproj.CopyComplete
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Abstract_02.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Exceptions.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Abstract_02.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Abstract_02.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Exceptions.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Exceptions.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Interface.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Interface.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Interface.exe.config
