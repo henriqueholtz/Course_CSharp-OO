@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA9BF923-FA5A-466D-B5C1-2269FF0E9887}</ProjectGuid>
+    <ProjectGuid>{0BF51576-FD6A-4CD4-8BFD-BCBD0AE0DB3A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StartProjects</RootNamespace>
-    <AssemblyName>StartProjects</AssemblyName>
+    <RootNamespace>Set</RootNamespace>
+    <AssemblyName>Set</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,33 +33,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ProgramStartProjects.cs" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ProgramSet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Abstract\Abstract.csproj">
-      <Project>{ee734d58-3dd4-443e-8dbb-e474ae636532}</Project>
-      <Name>Abstract</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Abstract_02\Abstract_02.csproj">
-      <Project>{e7fabbf9-f1db-43bb-90ef-0592c4341165}</Project>
-      <Name>Abstract_02</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Exceptions\Exceptions.csproj">
-      <Project>{e05129ec-dcb6-4812-bb9a-4937e2fae0cd}</Project>
-      <Name>Exceptions</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Interface\Interface.csproj">
-      <Project>{0d6dee48-a5ed-4c53-be3c-87ab9c8545fd}</Project>
-      <Name>Interface</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Set\Set.csproj">
-      <Project>{0bf51576-fd6a-4cd4-8bfd-bcbd0ae0db3a}</Project>
-      <Name>Set</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

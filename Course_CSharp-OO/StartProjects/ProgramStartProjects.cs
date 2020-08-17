@@ -19,7 +19,7 @@ namespace StartProjects
                 Console.WriteLine("-> (B) Abstract 2 ");
                 Console.WriteLine("-> (C) Exceptions ");
                 Console.WriteLine("-> (D) Interface ");
-                //Console.WriteLine("-> (E) Xadrez ");
+                Console.WriteLine("-> (E) Set");
                 Console.Write("\n Opção: ");
                 char ch = char.Parse(Console.ReadLine());
                 Console.Clear();
@@ -39,11 +39,14 @@ namespace StartProjects
                     case 'D': //Interface
                         Interface.ProgramInterface.Main(x);
                         break;
-                    //case 'E': //Xadrez
-                    //    break;
+                    case 'E': //Set
+                        Set.ProgramSet.Main(x);
+                        break;
                     default:
                         throw new Exception("Invalid option!");
                 }
+                Console.Clear();
+                Main(x);
             }
             catch( Exception e)
             {

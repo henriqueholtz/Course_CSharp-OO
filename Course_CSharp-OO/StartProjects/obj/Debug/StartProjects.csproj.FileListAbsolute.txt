@@ -18,3 +18,6 @@ D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debu
 D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Interface.exe
 D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Interface.pdb
 D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Interface.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Set.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Set.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\StartProjects\bin\Debug\Set.exe.config
