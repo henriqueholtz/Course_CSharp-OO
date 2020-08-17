@@ -10,6 +10,9 @@ namespace Set
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("-----------------------------------------------");
+            Console.WriteLine("                    Set");
+            Console.WriteLine("-----------------------------------------------");
             HashSet<int> listSet = new HashSet<int>();
             Console.Write("How many students for course A ? ");
             int quantityA = int.Parse(Console.ReadLine());

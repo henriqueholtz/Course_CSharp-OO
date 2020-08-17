@@ -20,6 +20,7 @@ namespace StartProjects
                 Console.WriteLine("-> (C) Exceptions ");
                 Console.WriteLine("-> (D) Interface ");
                 Console.WriteLine("-> (E) Set");
+                Console.WriteLine("-> (F) Dictionary");
                 Console.Write("\n Opção: ");
                 char ch = char.Parse(Console.ReadLine());
                 Console.Clear();
@@ -41,6 +42,9 @@ namespace StartProjects
                         break;
                     case 'E': //Set
                         Set.ProgramSet.Main(x);
+                        break;
+                    case 'F': //Dictionary
+                        Dictionary.ProgramDictionary.Main(x);
                         break;
                     default:
                         throw new Exception("Invalid option!");
