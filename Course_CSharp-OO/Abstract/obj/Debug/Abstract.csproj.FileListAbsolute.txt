@@ -1,0 +1,7 @@
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Abstract\bin\Debug\Abstract.exe.config
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Abstract\bin\Debug\Abstract.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Abstract\bin\Debug\Abstract.pdb
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Abstract\obj\Debug\Abstract.exe
+D:\Visual Studio\GitHub\Course_CSharp-OO\Course_CSharp-OO\Abstract\obj\Debug\Abstract.pdb
