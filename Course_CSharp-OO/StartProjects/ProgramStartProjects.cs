@@ -21,6 +21,7 @@ namespace StartProjects
                 Console.WriteLine("-> (D) Interface ");
                 Console.WriteLine("-> (E) Set");
                 Console.WriteLine("-> (F) Dictionary");
+                Console.WriteLine("-> (G) Lambda");
                 Console.Write("\n Opção: ");
                 char ch = char.Parse(Console.ReadLine());
                 Console.Clear();
@@ -45,6 +46,9 @@ namespace StartProjects
                         break;
                     case 'F': //Dictionary
                         Dictionary.ProgramDictionary.Main(x);
+                        break;
+                    case 'G':
+                        Lambda.ProgramLambda.Main(x);
                         break;
                     default:
                         throw new Exception("Invalid option!");

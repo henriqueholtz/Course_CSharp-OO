@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set", "Set\Set.csproj", "{0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{EAACF122-FA3F-487C-A432-996F117E9D65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{62CB0DB7-D4B0-4F8E-87AB-A937085D9916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{EAACF122-FA3F-487C-A432-996F117E9D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAACF122-FA3F-487C-A432-996F117E9D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAACF122-FA3F-487C-A432-996F117E9D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62CB0DB7-D4B0-4F8E-87AB-A937085D9916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CB0DB7-D4B0-4F8E-87AB-A937085D9916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CB0DB7-D4B0-4F8E-87AB-A937085D9916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CB0DB7-D4B0-4F8E-87AB-A937085D9916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
